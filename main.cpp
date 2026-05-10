@@ -274,6 +274,6 @@ int main() {
             drawOutlinedText(window, "Boss HP: " + to_string(boss.hp), 45, Color(255, 255, 100), uiX, 380);
         }
         window.display();
-    }
+    } 
     return 0;
 }
